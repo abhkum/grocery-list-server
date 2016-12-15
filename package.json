@@ -1,0 +1,14 @@
+{
+  "name": "grocery-list-server",
+  "version": "1.0.0",
+  "description": "REST service for grocery list",
+  "author": "abhkum <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
+
